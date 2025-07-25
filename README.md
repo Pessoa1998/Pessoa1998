@@ -51,10 +51,26 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pessoa1998&theme=radical" />
+  <!-- Estatísticas gerais do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <br/>
+
+  <!-- Streak de contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pessoa1998&theme=radical" alt="Streak GitHub" />
+  <br/>
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pessoa1998&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <br/>
+
+  <!-- Contribuições por repositório -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=Pessoa1998&limit=5&theme=radical" alt="Contribuições por repositório" />
+  <br/>
+
+  <!-- Snake de commits animado -->
+  <img src="https://github.com/Pessoa1998/Pessoa1998/blob/output/github-contribution-grid-snake.svg" alt="Snake animado de commits" />
 </p>
+
 
 ---
 
