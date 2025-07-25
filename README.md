@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  🚀 *Sempre codando, sempre evoluindo!*
+  🚀 Sempre codando, sempre evoluindo!
 </p>
