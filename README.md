@@ -1,54 +1,56 @@
-<h1 align="center">👋 Olá, eu sou Gabriel Lima</h1>
+<!-- FOTO DE PERFIL - AVATAR -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/103217621?v=4" alt="Gabriel Lima" width="150" />
+</p>
+
+<h1 align="center">👋 Olá, eu sou o Gabriel Lima</h1>
 
 <p align="center">
-  <b>Desenvolvedor full stack em constante evolução</b> 🚀 <br>
-  Apaixonado por transformar ideias em soluções reais com código.
+  <b>Desenvolvedor Full Stack em constante evolução</b> 🚀<br>
+  Transformando ideias em soluções com código e propósito.
 </p>
 
 ---
 
-### 🧠 Minhas Especialidades
+## 🧠 Especialidades Técnicas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABAP-0099CC?style=for-the-badge&logo=sap&logoColor=white" />
+
+  <!-- Front-End -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- BI / Análise -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 ---
 
-### 🌱 Aprendendo Atualmente
+## 🌱 Em Aprendizado
 
-- 🟡 **ABAP**: programação para sistemas SAP
-- 🔵 **CDS Views**: modelagem de dados no SAP HANA
-- 🟣 **ABAP para Fiori**: back-end para aplicações SAP Fiori/UI5
-
----
-
-### 🛠️ Ferramentas que uso
-
-- 💻 VS Code, Eclipse, SAP GUI, Git
-- ☁️ GitHub, GitLab
-- 🔗 REST APIs, JSON
-- 📊 Power BI (para análise de dados)
+- 🟡 **ABAP** – Linguagem SAP para soluções corporativas  
+- 🔵 **CDS Views** – Modelagem de dados no SAP HANA  
+- 🟣 **ABAP para Fiori/UI5** – Integração com o front-end moderno  
 
 ---
 
-### 🤝 Vamos nos conectar!
+## 🛠️ Ferramentas do Dia a Dia
 
-- 📫 E-mail: gpessoa0800@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-pessoa-5bb78b12a/)  
-- 🌐 Portfólio: *em breve...*
-
----
-
-### ⚡ Curiosidade
-
-> Sou movido por desafios e adoro aprender tecnologias que me tiram da zona de conforto. Hoje, estou explorando o mundo SAP e unindo a robustez do ABAP com a fluidez do front-end moderno.
+| Categoria            | Ferramentas                                                               |
+|----------------------|---------------------------------------------------------------------------|
+| **IDE/Editor**       | VS Code, Eclipse, SAP GUI                                                 |
+| **Controle de versão** | Git, GitHub, GitLab                                                     |
+| **Integração & APIs**| RESTful APIs, JSON                                                        |
+| **Dados & BI**       | Power BI, SQL, análise exploratória                                       |
 
 ---
+
+## 📊 GitHub em Destaque
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=radical" />
@@ -58,6 +60,22 @@
 
 ---
 
+## 🤝 Conecte-se Comigo
+
+<p align="left">
+  📫 <strong>Email:</strong> gpessoa0800@gmail.com<br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gabriel-pessoa-5bb78b12a/">Gabriel Pessoa</a><br>
+  🌐 <strong>Portfólio:</strong> <em>em breve...</em>
+</p>
+
+---
+
+## ⚡ Curiosidade Pessoal
+
+> Sou movido por desafios e adoro aprender tecnologias que me tiram da zona de conforto. Atualmente, estou explorando o ecossistema SAP e conectando a robustez do ABAP com a leveza e usabilidade do front-end moderno.
+
+---
+
 <p align="center">
-  🚀 *"Sempre codando, sempre evoluindo!"*
+  🚀 <em>"Sempre codando, sempre evoluindo!"</em>
 </p>
