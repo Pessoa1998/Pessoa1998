@@ -1,8 +1,3 @@
-<!-- FOTO DE PERFIL - AVATAR -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/103217621?v=4" alt="Gabriel Lima" width="150" />
-</p>
-
 <h1 align="center">👋 Olá, eu sou o Gabriel Lima</h1>
 
 <p align="center">
