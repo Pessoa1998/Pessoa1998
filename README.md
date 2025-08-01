@@ -86,8 +86,10 @@ Estou sempre aberto a novas conexões, oportunidades e discussões sobre tecnolo
 ---
 
 <p align="center">
+    <i>"Sempre estudando, sempre codando, e sempre evoluindo!"</i>
+</p>
+<!--  <br>
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
   <br>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlmt/giphy.gif" width="50" />
-  <br>
-  <i>"Sempre codando, sempre evoluindo! O próximo desafio me espera."</i>
+  <i>"Sempre estudando, sempre codando, e sempre evoluindo!"</i>
 </p>
