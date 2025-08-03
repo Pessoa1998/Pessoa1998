@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Gabriel Lima</h1>
+<h1 align="center">👋 Olá! Eu sou o Gabriel Pessoa</h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack | Transformando ideias em soluções com código e propósito.</b> 🚀
