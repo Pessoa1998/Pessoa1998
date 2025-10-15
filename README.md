@@ -1,95 +1,104 @@
-<h1 align="center">👋 Olá! Eu sou o Gabriel Pessoa</h1>
+# 👋 Olá — Eu sou Gabriel Pessoa
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | Transformando ideias em soluções com código e propósito.</b> 🚀
-  <br>
-  <i>Em constante evolução e sempre pronto para novos desafios.</i>
+  <img src="https://komarev.com/ghpvc/?username=Pessoa1998&color=blue" alt="Profile views"/>
 </p>
+
+<h2 align="center">Desenvolvedor Full‑Stack • Cientista de Dados em evolução • Apaixonado por transformar dados em decisões</h2>
+
+<p align="center">
+  <b>Transformo ideias em soluções | unindo engenharia de software, análise de dados e experiência do usuário.</b> 🚀
+</p>
+
+---
+
+## ✨ Destaque — Trajetória & Foco Atual
+
+* 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas**. & Granduando em **Bacharelado em Estatística**
+* 🔁 **Evolução de carreira:** Após uma formação sólida em **SAP / ABAP / Fiori**, hoje **não estou mais estudando SAP/ABAP como foco principal**. Estou completamente imerso em **Análise de Dados, Ciência de Dados, Inteligência Artificial, Machine Learning e Estatística**, esta é a minha área de atuação e paixão.
+* 🧭 **SAP & Datasphere:** Mesmo assim, mantenho um vínculo com o ecossistema SAP: continuo me aprofundando em **Datasphere** e aplicando integrações quando fazem sentido nos projetos.
+* 💻 **Full‑Stack:** Continuo programando todos os dias pois ser Full‑Stack é uma benção que me permite conectar backend, dados e experiência do usuário com fluidez.
 
 ---
 
 ## 🚀 Minhas Especialidades Técnicas
 
 <div align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
-  <a href="https://www.sap.com/brazil/products/technology-platform/abap-platform.html" target="_blank"><img src="https://img.shields.io/badge/ABAP-0099CC?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP"></a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  
-  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)](https://nodejs.org)
+[![ABAP](https://img.shields.io/badge/ABAP-0099CC?style=for-the-badge\&logo=sap\&logoColor=white)](https://www.sap.com)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://powerbi.microsoft.com/pt-br/)
+
 </div>
 
 ---
 
-## 🌱 Explorando o Ecossistema SAP (e Além!)
+## 🌱 Foco de Estudo & Competências (Atual)
 
-Minha jornada de aprendizado contínuo me leva a aprofundar conhecimentos em tecnologias estratégicas:
-
-- 🟡 **ABAP Avançado:** Dominando a linguagem SAP para construir soluções corporativas robustas e eficientes.
-- 🔵 **CDS Views & SAP HANA:** Modelagem de dados otimizada e performática para sistemas SAP, aproveitando o poder do SAP HANA.
-- 🟣 **ABAP para Fiori/UI5:** Conectando o backend ABAP com interfaces de usuário modernas e intuitivas, criando experiências ricas para o usuário final.
-- 🧪 **[FORA DO UNIVERSO SAP]**: ajusto o tempo nos conceitos: Cloud Computing, DevOps, Microserviços (PHP & Desenvolvimento Mobile)
+* 📊 **Ciência de Dados & Machine Learning:** exploração, engenharia de features, modelagem e validação.
+* 🧮 **Estatística aplicada:** inferência, testes, séries temporais e métricas de modelo.
+* 🛠️ **Pipelines & Engenharia de Dados:** ETL, limpeza, versionamento de dados e produção de modelos.
+* ☁️ **Cloud & MLOps:** deployment, monitoramento e automação de modelos.
+* 🧩 **UX-aware Development:** construção de interfaces (Fiori/UI5 quando necessário) com foco em usabilidade.
 
 ---
 
-## 🛠️ Ferramentas & Fluxo de Trabalho
+## 🛠️ Ferramentas & Workflow
 
-Minhas ferramentas diárias e metodologias de trabalho que garantem eficiência e qualidade:
+| Categoria          | Tecnologias                                |
+| ------------------ | ------------------------------------------ |
+| IDEs               | VS Code, Eclipse, SAP GUI                  |
+| Versionamento      | Git, GitHub, GitLab                        |
+| APIs & Integração  | REST, JSON, OAuth                          |
+| Dados              | Python (Pandas, NumPy), SQL, Power BI      |
+| Deployment         | Docker, CI/CD (GitHub Actions / GitLab CI) |
+| Testes & Qualidade | TDD, unit tests, Postman                   |
 
-| Categoria             | Ferramentas / Tecnologias                                            |
-|-----------------------|----------------------------------------------------------------------|
-| **IDEs / Editores** | VS Code, Eclipse, SAP GUI                                            |
-| **Controle de Versão**| Git, GitHub, GitLab (Colaboração e versionamento de código)          |
-| **Integração & APIs** | RESTful APIs, JSON (Construção e consumo de serviços)                |
-| **Dados & BI** | Power BI, SQL (Análise de dados, relatórios e insights)              |
-| **Metodologias** | Scrum/Kanban (Agilidade no desenvolvimento), TDD (Desenvolvimento Orientado a Testes) |
-| **Outros** | Docker, Postman (Testes de API)             |
+---
+
+## 🚩 Projetos em Destaque
+
+* **Pipeline de ML para previsão de demanda** — *Python, Pandas, scikit‑learn, Docker*.
+* **Relatórios interativos Power BI** — *Dashboards com KPIs e análises exploratórias*.
+* **Integração SAP → Datasphere** — *exemplo de ingestão e transformação de dados (projeto conceitual)*.
 
 ---
 
 ## 📊 Meu GitHub em Números
 
-Confira alguns dos meus destaques e atividade no GitHub:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Lima" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pessoa1998&theme=radical&hide_border=false" alt="Sequência de Contribuições no GitHub de Gabriel Lima" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pessoa1998&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pessoa1998&theme=radical&hide_border=false" alt="Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pessoa1998&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-## 💬 Vamos nos Conectar!
+## 💬 Vamos Conversar?
 
-Estou sempre aberto a novas conexões, oportunidades e discussões sobre tecnologia. Sinta-se à vontade para me contatar:
+* ✉️ **Email:** [gpessoa0800@gmail.com](mailto:gpessoa0800@gmail.com)
+* 🔗 **LinkedIn:** [Gabriel Pessoa](https://www.linkedin.com/in/gabriel-pessoa-5bb78b12a/)
+* 🌐 **Portfólio:** *Em breve — posso ajudar a montar uma landing page com seus projetos*
 
-- 📫 **Email:** [gpessoa0800@gmail.com](mailto:gpessoa0800@gmail.com)
-- 💼 **LinkedIn:** [Gabriel Pessoa](https://www.linkedin.com/in/gabriel-pessoa-5bb78b12a/) - Conecte-se para oportunidades de carreira e networking.
-- 🌐 **Portfólio:** *Em breve!* - Um espaço dedicado aos meus projetos e contribuições.
-
----
-
-## ✨ Um Pouco Sobre Mim
-
-> Sou um desenvolvedor movido por desafios e profundamente interessado na arte de transformar ideias complexas em soluções elegantes e funcionais. Minha curiosidade constante me leva a explorar novas tecnologias e a buscar evolução além da zona de conforto.
-
->Atualmente, estou focado em explorar a fundo o ecossistema SAP, conectando a robustez e confiabilidade do ABAP à modernidade, leveza e foco em usabilidade do desenvolvimento front-end, especialmente em aplicações Fiori/UI5.
- 
->Acredito que essa integração entre mundos distintos é capaz de gerar soluções inovadoras e otimizar processos com impacto real. Tudo isso sem abrir mão da minha expertise em ciência de dados, que inclui a construção de pipelines eficientes, consultas avançadas, manipulação de dataframes e aplicação de cálculos matemáticos para transformar dados em decisões.
+> **Aberto a projetos de Data Science, posições Full‑Stack, consultorias em pipelines de dados e integração SAP ↔ Datasphere.**
 
 ---
 
-<p align="center">
-    <i>"Sempre estudando, sempre codando, e sempre evoluindo!"</i>
-</p>
-<!--  <br>
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-  <br>
-  <i>"Sempre estudando, sempre codando, e sempre evoluindo!"</i>
-</p>
+## ✨ Nota Pessoal
+
+> "Sempre estudando, sempre codando, e agora transformando dados em decisões."
+
+---
+
+<p align="center">Made with ❤️ — <i>Full‑Stack + Data Science</i></p>
+
+<!-- Sugestões extras (não impressas):
+- Adicionar GIF curto de 'coding' ou imagem profissional no topo.
+- Incluir cards de projetos com screenshots (melhora muito para recrutadores).
+- Versão em inglês para vagas internacionais.
+-->
