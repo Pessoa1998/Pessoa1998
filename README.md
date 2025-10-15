@@ -1,8 +1,9 @@
 # 👋 Olá — Eu sou Gabriel Pessoa
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pessoa1998&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Pessoa1998&label=Visitantes%20do%20Perfil&color=grey&style=flat-square" alt="Visualizações do Perfil" />
 </p>
+
 
 <h2 align="center">Desenvolvedor Full‑Stack • Cientista de Dados em evolução • Apaixonado por transformar dados em decisões</h2>
 
