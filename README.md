@@ -84,7 +84,7 @@
 
 * ✉️ **Email:** [gpessoa0800@gmail.com](mailto:gpessoa0800@gmail.com)
 * 🔗 **LinkedIn:** [Gabriel Pessoa](https://www.linkedin.com/in/gabriel-pessoa-5bb78b12a/)
-* 🌐 **Portfólio:** *Em breve — posso ajudar a montar uma landing page com seus projetos*
+* 🌐 **Portfólio:** *Em breve*
 
 > **Aberto a projetos de Data Science, posições Full‑Stack, consultorias em pipelines de dados e integração SAP ↔ Datasphere.**
 
