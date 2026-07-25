@@ -10,34 +10,23 @@
 
 </div>
 
-```ansi
-[32muser@dev[0m:[34m~[0m$ neofetch
-[36m       .--.        [0m [1;33mGabriel Pessoa Lima[0m
-[36m      |o_o |       [0m ---------------------------
-[36m      |:_/ |       [0m [32mrole[0m......: Full-Stack -> Data Scientist
-[36m     //   \ \      [0m [32mos[0m........: SAP + Python + Estatistica
-[36m    (|     | )     [0m [32mfoco[0m......: Ciencia & Engenharia de Dados
-[36m   /'\_   _/`\     [0m [32mdiferencial[0m: SAP -> Datasphere -> Analytics
-[36m   \___)=(___/     [0m [32mfilosofia[0m.: decidir com dados, nao com achismo
-```
-
----
-
 ## `01` whoami
+
+```text
+user@dev:~$ neofetch
+       .--.         Gabriel Pessoa Lima
+      |o_o |        ---------------------------
+      |:_/ |        role......: Full-Stack -> Data Scientist
+     //   \ \       os........: SAP + Python + Estatistica
+    (|     | )      foco......: Ciencia & Engenharia de Dados
+   /'\_   _/`\      diferencial: SAP -> Datasphere -> Analytics
+   \___)=(___/      filosofia.: decidir com dados, nao com achismo
+```
 
 Comecei no chão de fábrica dos sistemas corporativos (SAP) e segui a trilha até
 onde o dado vira decisão: **software → dado → estatística → decisão.**
 
 > `# TODO:` abandonar o SAP → **`# DONE:` conectei o SAP ao mundo dos dados.**
-
-```yaml
-formacao:
-  - Analise e Desenvolvimento de Sistemas   # [OK] concluido
-  - Bacharelado em Estatistica              # [..] em andamento
-buffs_ativos:
-  - integracao_SAP_datasphere: true
-  - pensamento_estatistico: max
-```
 
 ---
 
@@ -79,16 +68,17 @@ buffs_ativos:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pessoa1998&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pessoa1998&theme=matrix&no-frame=true&column=7)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pessoa1998&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 ## `06` snake do meu contribution graph 🐍
+
+> ⚠️ aparece após configurar o GitHub Action (branch `output`).
 
 ![snake](https://raw.githubusercontent.com/Pessoa1998/Pessoa1998/output/github-contribution-grid-snake-dark.svg)
 
