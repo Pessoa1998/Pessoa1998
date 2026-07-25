@@ -1,140 +1,106 @@
-# 👋 Olá, eu sou **Gabriel Pessoa**
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pessoa1998&label=Profile%20Views&color=grey&style=flat-square)
+# `~/gabriel-pessoa` — 24/7 online 🟢
 
-### Full-Stack Developer • Data Scientist em evolução contínua • Estatística aplicada a decisões reais
+**Full-Stack Dev** · **Data Scientist** · **Estatística aplicada à decisão real**
 
-**Transformo dados e software em soluções práticas, escaláveis e orientadas a impacto.** 🚀
+*Do dado bruto à decisão final — eu construo o pipeline inteiro.*
 
----
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&width=650&lines=Do+dado+bruto+%C3%A0+decis%C3%A3o+final;SAP+%2B+Data+Science+%3D+diferencial;while(alive)+%7B+learn()%3B+code()%3B+%7D)
 
-## 🧭 Quem eu sou
+</div>
 
-Sou desenvolvedor **Full-Stack** com forte atuação em **dados**, combinando:
-
-- engenharia de software  
-- estatística aplicada  
-- ciência de dados  
-- visão de produto e negócio  
-
-Minha trajetória une **ambiente corporativo (SAP)** com **Data Science moderna**, permitindo atuar desde a **origem do dado** até a **decisão final baseada em evidência**.
-
----
-
-## 🎓 Formação
-
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Graduado  
-- 📊 **Bacharelado em Estatística** — Em andamento  
+```ansi
+[32muser@dev[0m:[34m~[0m$ neofetch
+[36m       .--.        [0m [1;33mGabriel Pessoa Lima[0m
+[36m      |o_o |       [0m ---------------------------
+[36m      |:_/ |       [0m [32mrole[0m......: Full-Stack -> Data Scientist
+[36m     //   \ \      [0m [32mos[0m........: SAP + Python + Estatistica
+[36m    (|     | )     [0m [32mfoco[0m......: Ciencia & Engenharia de Dados
+[36m   /'\_   _/`\     [0m [32mdiferencial[0m: SAP -> Datasphere -> Analytics
+[36m   \___)=(___/     [0m [32mfilosofia[0m.: decidir com dados, nao com achismo
+```
 
 ---
 
-## 🔄 Evolução Profissional
+## `01` whoami
 
-- Base sólida em **SAP (ABAP / Fiori / integrações)**  
-- Atuação em **sistemas corporativos, dados transacionais e processos críticos**  
-- Evolução para **Análise de Dados, Ciência de Dados, Estatística e Machine Learning**  
-- **Foco atual:** Dados  
-- **Diferencial:** Integração de dados SAP via **Datasphere**  
+Comecei no chão de fábrica dos sistemas corporativos (SAP) e segui a trilha até
+onde o dado vira decisão: **software → dado → estatística → decisão.**
 
-> Não abandonei SAP — **integrei SAP ao mundo dos dados.**
+> `# TODO:` abandonar o SAP → **`# DONE:` conectei o SAP ao mundo dos dados.**
+
+```yaml
+formacao:
+  - Analise e Desenvolvimento de Sistemas   # [OK] concluido
+  - Bacharelado em Estatistica              # [..] em andamento
+buffs_ativos:
+  - integracao_SAP_datasphere: true
+  - pensamento_estatistico: max
+```
 
 ---
 
-## 🚀 Stack Principal
+## `02` árvore de talentos 🌳
+
+| Ramo | Perícia |
+|------|---------|
+| 📊 **Data Science / ML** | EDA · feature engineering · modelos supervisionados · interpretação |
+| 🧮 **Estatística** | inferência · testes de hipótese · séries temporais · validação |
+| 🛠️ **Data Engineering** | ETL · pipelines reprodutíveis · qualidade · SAP + múltiplas fontes |
+| ☁️ **Cloud / MLOps** | Docker · CI/CD · deploy · monitoramento |
+| 🧩 **Full-Stack / UX** | APIs REST · backend data-driven · SAP Fiori/UI5 |
+
+---
+
+## `03` arsenal ⚙️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ABAP](https://img.shields.io/badge/ABAP-0099CC?style=for-the-badge&logo=sap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ---
 
-## 🧠 Atuação Atual & Competências
+## `04` missões 🎯
 
-### 📊 Ciência de Dados & Machine Learning
-- Análise exploratória (EDA)
-- Engenharia de atributos
-- Modelagem supervisionada
-- Avaliação e interpretação de modelos
-- Comunicação de resultados
-
-### 🧮 Estatística Aplicada
-- Inferência estatística
-- Testes de hipóteses
-- Séries temporais
-- Métricas e validação de modelos
-
-### 🛠️ Engenharia de Dados
-- ETL e pipelines reprodutíveis
-- Qualidade e padronização de dados
-- Integração de múltiplas fontes (incluindo SAP)
-
-### ☁️ Cloud, DevOps & MLOps
-- Docker
-- CI/CD
-- Deploy e automação de modelos
-- Monitoramento
-
-### 🧩 Full-Stack & UX
-- APIs REST
-- Backend orientado a dados
-- Interfaces com foco em usabilidade
-- SAP Fiori/UI5 quando aplicável
+```diff
++ [ML]   Previsao de demanda - Python . Pandas . scikit-learn . Docker
++ [BI]   Dashboards Power BI - KPIs . EDA . storytelling
++ [DATA] Integracao SAP -> Datasphere - ingestao . transform . analytics
+```
 
 ---
 
-## 🛠️ Ferramentas & Workflow
+## `05` telemetria 📡
 
-| Categoria | Tecnologias |
-|--------|------------|
-| IDEs | VS Code, Eclipse, SAP GUI |
-| Versionamento | Git, GitHub, GitLab |
-| Dados | Python (Pandas, NumPy), SQL, Power BI |
-| APIs | REST, JSON, OAuth |
-| DevOps | Docker, CI/CD |
-| Qualidade | TDD, testes unitários, Postman |
+<div align="center">
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pessoa1998&theme=tokyonight&hide_border=true)
 
-## 🚩 Projetos em Destaque
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pessoa1998&theme=matrix&no-frame=true&column=7)
 
-- 🔮 **Pipeline de Machine Learning para previsão de demanda**  
-  *Python • Pandas • scikit-learn • Docker*
-
-- 📊 **Dashboards analíticos em Power BI**  
-  *KPIs, análises exploratórias e storytelling com dados*
-
-- 🔗 **Integração SAP → Datasphere**  
-  *Ingestão, transformação e consumo analítico de dados*
+</div>
 
 ---
 
-## 📈 GitHub em Números
+## `06` snake do meu contribution graph 🐍
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pessoa1998&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pessoa1998&layout=compact&theme=radical&hide_border=true)
+![snake](https://raw.githubusercontent.com/Pessoa1998/Pessoa1998/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🤝 Contato
+## `07` conectar 🔗
 
-- ✉️ **Email:** gpessoa0800@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/gabriel-pessoa-5bb78b12a/  
-- 🌐 **Portfólio:** em desenvolvimento  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpessoa0800@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pessoa-5bb78b12a/)
 
-> **Aberto a oportunidades em Ciência de Dados, Engenharia de Dados, Full-Stack, Analytics e projetos com dados corporativos e SAP.**
+<div align="center">
 
----
+`while(alive){ learn(); code(); decideWithData(); }`
 
-## ✨ Filosofia
-
-> *Aprender continuamente. Codar com propósito. Decidir com dados.*
-
----
-
-_Made with ❤️ — Data-Driven • Full-Stack • Estatística Aplicada_
+</div>
