@@ -68,17 +68,16 @@ onde o dado vira decisão: **software → dado → estatística → decisão.**
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pessoa1998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pessoa1998&theme=tokyonight)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pessoa1998&layout=compact&theme=tokyonight&hide_border=true)
+![Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pessoa1998&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pessoa1998&theme=tokyonight)
 
 </div>
 
 ---
 
 ## `06` snake do meu contribution graph 🐍
-
-> ⚠️ aparece após configurar o GitHub Action (branch `output`).
 
 ![snake](https://raw.githubusercontent.com/Pessoa1998/Pessoa1998/output/github-contribution-grid-snake-dark.svg)
 
