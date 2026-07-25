@@ -8,6 +8,9 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&width=650&lines=Do+dado+bruto+%C3%A0+decis%C3%A3o+final;SAP+%2B+Data+Science+%3D+diferencial;while(alive)+%7B+learn()%3B+code()%3B+%7D)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Pessoa1998&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Pessoa1998?style=for-the-badge&logo=github&color=36BCF7&labelColor=1a1b27)
+
 </div>
 
 ## `01` whoami
@@ -66,14 +69,13 @@ onde o dado vira decisão: **software → dado → estatística → decisão.**
 
 ## `05` telemetria 📡
 
-<div align="center">
-
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pessoa1998&theme=tokyonight)
-
-![Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pessoa1998&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pessoa1998&theme=tokyonight)
-
-</div>
+```ini
+[status]
+foco_atual      = Ciencia & Engenharia de Dados
+aprendendo      = MLOps . Series Temporais . Deep Learning
+stack_do_mes    = Python + SQL + Docker
+disponibilidade = aberto a oportunidades
+```
 
 ---
 
