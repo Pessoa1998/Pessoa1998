@@ -34,11 +34,15 @@ até onde o dado vira decisão:
 
 ## `03` missões 🎯
 
+> 🌱 **case em destaque → [previsao-demanda-agro](https://github.com/Pessoa1998/previsao-demanda-agro)** \
+> do SAP à decisão de estoque: extração SD → camada SQL estilo Datasphere → previsão de demanda →
+> recomendação de estoque. **31% menos estoque** no mesmo nível de atendimento. <sub>(dados sintéticos)</sub>
+
 | | missão | ferramentas & foco |
 |:-:|---|---|
-| `ML` | **Previsão de demanda** | Python · Pandas · scikit-learn · Docker |
+| `ML` | **[Previsão de demanda](https://github.com/Pessoa1998/previsao-demanda-agro)** | Python · Pandas · scikit-learn · Docker |
 | `BI` | **Dashboards Power BI** | KPIs · EDA · storytelling |
-| `DATA` | **Integração SAP → Datasphere** | ingestão · transformação · analytics |
+| `DATA` | **[Integração SAP → Datasphere](https://github.com/Pessoa1998/previsao-demanda-agro/tree/main/sql)** | ingestão · transformação · analytics |
 
 <details>
 <summary><b>🧪 laboratório</b> — projetos públicos de estudo</summary>
